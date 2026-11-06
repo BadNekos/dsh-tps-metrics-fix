@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "End-to-end TPS correction",
+    "description": "Aligns request and session output-token rates with full response time, preserving existing DSH and owo controls. Includes a version-guarded trajectory timing adapter."
+  }
+}

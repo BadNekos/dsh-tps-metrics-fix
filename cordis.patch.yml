@@ -1,0 +1,6 @@
+- insert:
+    - id: tps-metrics-fix
+      name: '@local/dsh-tps-metrics-fix'
+      config:
+        enabled: true
+        minDurationMs: 100

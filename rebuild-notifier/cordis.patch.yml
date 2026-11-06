@@ -1,0 +1,3 @@
+- insert:
+    - id: tps-client-rebuild-once
+      name: '@local/dsh-tps-client-rebuild-once'
